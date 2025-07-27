@@ -25,6 +25,6 @@ export const data = [
     id: 4,
     name: "Ide ngobrol generator",
     image: ideNgobrolGenerator,
-    live: "http://demo-manajemen-sekolah.42web.io/",
+    live: "https://ide-ngobrol-generator.vercel.app",
   },
 ];
